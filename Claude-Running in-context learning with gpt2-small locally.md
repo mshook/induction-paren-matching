@@ -5,6 +5,21 @@
 **Exported:** 6/18/2026 22:37:02  
 **Link:** [https://claude.ai/chat/a14dca6c-229c-422d-b21b-1a6c759d1eca](https://claude.ai/chat/a14dca6c-229c-422d-b21b-1a6c759d1eca)  
 
+## Table of Contents
+
+My questions & prompts, in order:
+
+1. [How can I run a simple in-context learning example using gpt2-small locally?](#user)
+2. [What is an induction head](#user-1)
+3. [Yes](#user-2)
+4. [What are key induction head/in-context learning papers and repositories?](#user-3)
+5. [Why the word 'induction'](#user-4)
+6. [Have induction heads been demonstrated at higher levels of abstraction than straight input tokens?](#user-5)
+7. [Can induction heads learn nested matching parenthesis?](#user-6)
+8. [Yes, show the contrast](#user-7)
+9. [Yes, show the contrast](#user-8)
+10. [explain hard vs soft attention](#user-9)
+
 ## User:
 
 > 6/3/2026 21:07:18
